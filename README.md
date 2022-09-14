@@ -2,7 +2,7 @@
 
 
 
-- 🌱 Estudando Python
+- 🌱 Estudando Front/Back-End
 
 <div align="center">
   <a href="https://github.com/oggrilo">
