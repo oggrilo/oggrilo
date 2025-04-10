@@ -29,7 +29,7 @@
   <div > 
  
   <a href = "mailto:murilolemos2013@gmail.com"><img align="center" align-content= center; alt="Link-Gmail" height="50" width="50" src="https://img.icons8.com/?size=512&id=UVMl6gMRl2Sq&format=png" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/murilo-lemos-786641130/" target="_blank"><img align="center" alt="Link-Linkedin" height="50" width="50" src='https://img.icons8.com/?size=512&id=WyB8Jtm9PZoo&format=png' target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/murilo-lm/" target="_blank"><img align="center" alt="Link-Linkedin" height="50" width="50" src='https://img.icons8.com/?size=512&id=WyB8Jtm9PZoo&format=png' target="_blank"></a> 
  
 
  
