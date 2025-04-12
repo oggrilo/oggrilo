@@ -4,7 +4,7 @@
 
   
 
-- 🌱 Estudando Front/Back-End
+- 🌱 Estudando Back-End/Front-End
 #
 <div align="center">
   <a href="https://github.com/oggrilo">
