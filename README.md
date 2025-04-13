@@ -17,7 +17,7 @@
 <div style="display: inline_block">
   <img align="center" alt="Grilo-HTML" height="50" width="50" src="https://img.icons8.com/?size=512&id=zRvbzAjx4VWY&format=png">
   <img align="center" alt="Grilo-CSS" height="50" width="50" src="https://img.icons8.com/?size=512&id=7gdY5qNXaKC0&format=png">
-  <img align="center" alt="Grilo-Java" height="50" width="50" src="https://github.com/user-attachments/assets/5b003571-327a-4aaa-b98d-2427313d1569&format=png">
+  <img align="center" alt="Grilo-Java" height="50" width="50" src="https://img.icons8.com/?size=100&id=5OD485koNIrb&format=png&color=000000)&format=png">
   <img align="center" alt="Grilo-Csharp" height="50" width="50" src="https://img.icons8.com/?size=512&id=Fycm8TUhWmFU&format=png">
   <img align="center" alt="Grilo-Python" height="50" width="50" src="https://img.icons8.com/?size=512&id=13441&format=png">
   <img align="center" alt="Grilo-Python" height="50" width="50" src="https://img.icons8.com/?size=512&id=NfbyHexzVEDk&format=png" />
